@@ -80,7 +80,8 @@ header .container {
   padding-bottom: 10px;
 }
 #about {
-  background: #18BC9C;
+  background: #00D7FF;
+/*  background: #18BC9C;*/
   padding-bottom: 10px;
   font-size:20px;
 }
@@ -94,7 +95,8 @@ header .container {
 
 
 #teaching {
-  background: #18BC9C;
+  background: #00D7FF;
+/*  background: #18BC9C;*/
   padding-bottom: 5px;
   font-size:20px;
 
