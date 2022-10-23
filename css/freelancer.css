@@ -20,7 +20,7 @@ a:focus,
 a:active,
 a.active {
   color: #000000;
-  /*color: #00D7FF;*/
+  /*color: #00C2FF;*/
   outline: none;
 }
 h1,
@@ -57,15 +57,15 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #00D7FF;
+  background-color: #00C2FF;
   color: white;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #0097FF;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2C3E50;
+  color: #0097FF;
 }
 .img-centered {
   margin: 0 auto;
@@ -80,7 +80,7 @@ header .container {
   padding-bottom: 10px;
 }
 #about {
-  background: #00D7FF;
+  background: #00C2FF;
 /*  background: #18BC9C; The old green-ish color*/
   padding-bottom: 10px;
   font-size:20px;
@@ -95,7 +95,7 @@ header .container {
 
 
 #teaching {
-  background: #00D7FF;
+  background: #00C2FF;
 /*  background: #18BC9C; The old green-ish color*/
   padding-bottom: 5px;
   font-size:20px;
@@ -145,7 +145,7 @@ header .intro-text .skill li a:active{
 
 
 .navbar-custom {
-  background: #2C3E50;
+  background: #0097FF;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -170,7 +170,7 @@ header .intro-text .skill li a:active{
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #00D7FF;
+  color: #00C2FF;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -179,13 +179,13 @@ header .intro-text .skill li a:active{
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #00D7FF;
+  background: #00C2FF;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #00D7FF;
+  background: #00C2FF;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -195,9 +195,9 @@ header .intro-text .skill li a:active{
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #00D7FF;
+  background-color: #00C2FF;
   color: white;
-  border-color: #00D7FF;
+  border-color: #00C2FF;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -227,7 +227,7 @@ section h2 {
   font-size: 3em;
 }
 section.alternate {
-  background: #00D7FF;
+  background: #00C2FF;
   color: white;
 }
 @media (max-width: 767px) {
@@ -333,7 +333,7 @@ section.alternate {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #00D7FF;
+  color: #00C2FF;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -351,7 +351,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 1px;
-  background-color: #2C3E50;
+  background-color: #0097FF;
 }
 footer .footer-col {
   margin-bottom: 20px;
@@ -372,14 +372,14 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #00D7FF;
+  color: #00C2FF;
   background: white;
   border: solid 2px white;
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #0097FF;
+  border-color: #0097FF;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -411,17 +411,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #0097FF;
+  border-color: #0097FF;
 }
 .btn-primary .badge {
-  color: #2C3E50;
+  color: #0097FF;
   background-color: white;
 }
 .btn-alternate {
   color: white;
-  background-color: #00D7FF;
-  border-color: #00D7FF;
+  background-color: #00C2FF;
+  border-color: #00C2FF;
   font-weight: 700;
 }
 .btn-alternate:hover,
@@ -453,11 +453,11 @@ fieldset[disabled] .btn-alternate:active,
 .btn-alternate.disabled.active,
 .btn-alternate[disabled].active,
 fieldset[disabled] .btn-alternate.active {
-  background-color: #00D7FF;
-  border-color: #00D7FF;
+  background-color: #00C2FF;
+  border-color: #00C2FF;
 }
 .btn-alternate .badge {
-  color: #00D7FF;
+  color: #00C2FF;
   background-color: white;
 }
 .btn-social {
@@ -529,7 +529,7 @@ fieldset[disabled] .btn-alternate.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2C3E50;
+  background-color: #0097FF;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -540,7 +540,7 @@ fieldset[disabled] .btn-alternate.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: #0097FF;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
