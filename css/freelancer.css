@@ -20,7 +20,7 @@ a:focus,
 a:active,
 a.active {
   color: #000000;
-  /*color: #18BC9C;*/
+  /*color: #00D7FF;*/
   outline: none;
 }
 h1,
@@ -57,7 +57,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
+  background-color: #00D7FF;
   color: white;
 }
 hr.star-primary {
@@ -81,7 +81,7 @@ header .container {
 }
 #about {
   background: #00D7FF;
-/*  background: #18BC9C;*/
+/*  background: #18BC9C; The old green-ish color*/
   padding-bottom: 10px;
   font-size:20px;
 }
@@ -96,7 +96,7 @@ header .container {
 
 #teaching {
   background: #00D7FF;
-/*  background: #18BC9C;*/
+/*  background: #18BC9C; The old green-ish color*/
   padding-bottom: 5px;
   font-size:20px;
 
@@ -170,7 +170,7 @@ header .intro-text .skill li a:active{
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #00D7FF;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -179,13 +179,13 @@ header .intro-text .skill li a:active{
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #00D7FF;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #00D7FF;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -195,9 +195,9 @@ header .intro-text .skill li a:active{
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #00D7FF;
   color: white;
-  border-color: #18BC9C;
+  border-color: #00D7FF;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -227,7 +227,7 @@ section h2 {
   font-size: 3em;
 }
 section.alternate {
-  background: #18BC9C;
+  background: #00D7FF;
   color: white;
 }
 @media (max-width: 767px) {
@@ -333,7 +333,7 @@ section.alternate {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #00D7FF;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -372,7 +372,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #00D7FF;
   background: white;
   border: solid 2px white;
 }
@@ -420,8 +420,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-alternate {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #00D7FF;
+  border-color: #00D7FF;
   font-weight: 700;
 }
 .btn-alternate:hover,
@@ -453,11 +453,11 @@ fieldset[disabled] .btn-alternate:active,
 .btn-alternate.disabled.active,
 .btn-alternate[disabled].active,
 fieldset[disabled] .btn-alternate.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #00D7FF;
+  border-color: #00D7FF;
 }
 .btn-alternate .badge {
-  color: #18BC9C;
+  color: #00D7FF;
   background-color: white;
 }
 .btn-social {
