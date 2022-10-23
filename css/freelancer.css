@@ -61,11 +61,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #0097FF;
+  border-color: #0088E6;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #0097FF;
+  color: #0088E6;
 }
 .img-centered {
   margin: 0 auto;
@@ -145,7 +145,7 @@ header .intro-text .skill li a:active{
 
 
 .navbar-custom {
-  background: #0097FF;
+  background: #0088E6;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -351,7 +351,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 1px;
-  background-color: #0097FF;
+  background-color: #0088E6;
 }
 footer .footer-col {
   margin-bottom: 20px;
@@ -378,8 +378,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #0097FF;
-  border-color: #0097FF;
+  background-color: #0088E6;
+  border-color: #0088E6;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -411,11 +411,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #0097FF;
-  border-color: #0097FF;
+  background-color: #0088E6;
+  border-color: #0088E6;
 }
 .btn-primary .badge {
-  color: #0097FF;
+  color: #0088E6;
   background-color: white;
 }
 .btn-alternate {
@@ -529,7 +529,7 @@ fieldset[disabled] .btn-alternate.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #0097FF;
+  background-color: #0088E6;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -540,7 +540,7 @@ fieldset[disabled] .btn-alternate.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #0097FF;
+  background-color: #0088E6;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
